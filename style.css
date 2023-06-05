@@ -1,0 +1,13 @@
+
+
+body{
+
+    background-image: url('background.jpeg');
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+}
